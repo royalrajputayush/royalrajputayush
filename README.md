@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @royalrajputayush
+- 👋 Hi, I’m @AyushSingh
 - 👀 I’m interested in helping and coding 
 - 🌱 I’m currently learning c programming in engeneering college 
 - 💞️ I’m looking to collaborate on GitHub 
