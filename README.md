@@ -2,7 +2,7 @@
 - 👀 I’m interested in helping and coding 
 - 🌱 I’m currently learning c programming in engeneering college 
 - 💞️ I’m looking to collaborate on GitHub 
-- 📫 Any one can reach me on my mail that is "vikash9570kumar07@gmail.com"
+- 📫 Any one can reach me on my mail that is "singh18ayush@gmail.com"
 
 <!---
 royalrajputayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
